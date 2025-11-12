@@ -23,5 +23,32 @@
 
 
 
-\[Клонирование и пулл репозитория](screenshots/task\_1-6)
+!\[Клонирование и пулл репозитория](screenshots/task1-6)
+
+
+
+\### Задание 7
+
+Получена история операций для каждой из веток
+
+* git log master
+* git checkout -b branch1 origin/branch1
+* git log branch1
+
+
+
+!\[История операций](screenshots/task7)
+
+
+
+\### Задание 8
+
+Просмотрены последние изменения
+
+* git log --oneline -5
+* git show HEAD
+
+
+
+!\[Последние операции](screenshots/task8)
 
