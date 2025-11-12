@@ -100,3 +100,14 @@
 * git checkout -b repBranch
 
 ![Создание ветки для отчёта](screenshots/task13.png)
+
+
+
+### Задание 15
+Была получена история операций в форматированном виде.
+* git log --pretty=format:"%h - %ad - %an - %s" --date=short --all
+
+<img width="882" height="442" alt="image" src="https://github.com/user-attachments/assets/08c673ed-6ca0-45ed-b8b8-8f971d5b9f77" />
+
+
+
